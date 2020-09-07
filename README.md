@@ -4,7 +4,7 @@
 
 [![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&layout=compact&hide=html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)
 
-I am currently finishing my masters degree in the lab of @muehlhaus in the department of @CSBiology at the Technical University of Kaiserslautern and hope to pursue a PhD degree there soon.
+I am currently finishing my masters degree in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern and hope to pursue a PhD degree there soon.
 
 ### :mag_right: Academic interests
 
