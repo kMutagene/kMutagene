@@ -17,7 +17,7 @@ My main academic interests are:
  - open science
 
 
-Here is my **publication history** (you can also find me on [google scholar]() or [researchgate]())
+Here is my **publication history** (you can also find me on [google scholar](https://scholar.google.com/citations?hl=en&user=SBPkVhMAAAAJ) or [researchgate](https://www.researchgate.net/profile/Kevin_Schneider10))
 
 |Title|Journal|Authors|Date|
 |---|---|---|---|
@@ -29,6 +29,6 @@ Here is my **publication history** (you can also find me on [google scholar]() o
 My **general programming interests** include:
 
  - maintanance of open source software
- - data visalization :chart_with_upwards_trend:
+ - data visualization :chart_with_upwards_trend:
  - functional programming
  - metaprogramming, project templating and scaffolding.
