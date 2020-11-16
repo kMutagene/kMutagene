@@ -1,4 +1,4 @@
-:wave: Hi there! My name is **Kevin**, and i am a **data scientist** / **bioinformatician** / **F# developer**. 
+:wave: Hi there! My name is **Kevin**, and i am a **data scientist** / **bioinformatician** / **.NET/F# developer**. 
 
 |[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kMutagene&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&layout=compact&hide=html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
