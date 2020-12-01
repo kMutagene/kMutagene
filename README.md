@@ -4,8 +4,7 @@
 |---|---|
 
 
-
-I am currently finishing my masters degree in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern and hope to pursue a PhD degree there soon.
+I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern.
 
 ### :mag_right: Academic interests
 
@@ -16,7 +15,7 @@ My main academic interests are:
  - open science
 
 
-Here are is my **publication history** (you can also check out my [ORCID record](https://orcid.org/0000-0002-2198-5262) or find me on [researchgate](https://www.researchgate.net/profile/Kevin_Schneider10)):
+Here is my **publication history** (you can also check out my [ORCID record](https://orcid.org/0000-0002-2198-5262) or find me on [researchgate](https://www.researchgate.net/profile/Kevin_Schneider10)):
 
 |Title|Journal|Authors|Date|Repository(if applicable)|
 |---|---|---|---|---|
@@ -34,3 +33,4 @@ My **general programming interests** include:
  - data visualization :chart_with_upwards_trend:
  - functional programming
  - metaprogramming, project templating and scaffolding.
+ - devops
