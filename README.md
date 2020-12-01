@@ -1,10 +1,9 @@
-:wave: Hi there! My name is **Kevin**, and i am a **data scientist** / **bioinformatician** / **.NET/F# developer**. 
+:wave: Hi there! My name is **Kevin**, and i am a **data scientist** / **bioinformatician** / **.NET/F# developer**. I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern.
 
 |[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kMutagene&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&layout=compact&hide=html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
 
 
-I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern.
 
 ### :mag_right: Academic interests
 
