@@ -2,19 +2,16 @@
 
 I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern.
 
-|[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kMutagene&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&layout=compact&hide=html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)|
+|[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kMutagene&show_icons=true&theme=synthwave&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&theme=synthwave&layout=compact&hide=html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)|
 |---|---|
-
-
 
 ### :mag_right: Academic interests
 
 My main academic interests are:
  - meta analysis of large biological datasets and development of related methods
- - machinelearning as one of the tools for above
+ - machine learning as one of the tools for above
  - metadata as an interface between wet and dry labs
  - open science
-
 
 Here is my **publication history** (you can also check out my [ORCID record](https://orcid.org/0000-0002-2198-5262) or find me on [researchgate](https://www.researchgate.net/profile/Kevin_Schneider10)):
 
