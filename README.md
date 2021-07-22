@@ -36,9 +36,13 @@ My main academic interests are:
 ### General Programming interests
 
 My **general programming interests** include:
-
- - maintanance of open source software
+ 
  - data visualization :chart_with_upwards_trend:
  - functional programming
  - metaprogramming, project templating and scaffolding.
  - devops
+ 
+  I maintain several OSS repositories. Some examples:
+   - I am a maintainer in [@fslaborg](https://github.com/fslaborg), [@nfdi4plants](https://github.com/nfdi4plants), and [@CSBiology](https://github.com/CSBiology).
+   - I am the core maintainer of [Plotly.NET](https://github.com/plotly/Plotly.NET)
+   - I am the core maintainer of [BioFSharp](https://github.com/CSBiology/BioFSharp)
