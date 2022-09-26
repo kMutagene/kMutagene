@@ -25,6 +25,7 @@ My main academic interests are:
  
 | Title | Journal | Authors | Year | Repository(if applicable) |
 |---|---|---|---|---|
+| [Plotly.NET: A fully featured charting library for .NET programming languages](https://f1000research.com/articles/11-1094) | F1000Research | **K Schneider**, B Venn, T Mühlhaus | 2022 | https://github.com/plotly/Plotly.NET |
 | [iMLP, a predictor for internal matrix targeting-like sequences in mitochondrial proteins](https://doi.org/10.1515/hsz-2021-0185) | Biological Chemistry | **K Schneider**, D Zimmer, H Nielsen, J M Herrmann, T Mühlhaus | 2021 | [CSBiology/iMLP](https://github.com/CSBiology/iMLP) |
 |[TMEA: A Thermodynamically Motivated Framework for Functional Characterization of Biological Responses to System Acclimation](https://doi.org/10.3390/e22091030)| Entropy | **K Schneider**, B Venn, T Mühlhaus | 2020 | [CSBiology/TMEA](https://github.com/CSBiology/TMEA) |
 |[Translational Components Contribute to Acclimation Responses to High Light, Heat, and Cold in Arabidopsis](https://www.sciencedirect.com/science/article/pii/S2589004220305186)|iScience|A Garcia-Molina, T Kleine, **K Schneider**, T Mühlhaus, M Lehmann, D Leister|2020| |
