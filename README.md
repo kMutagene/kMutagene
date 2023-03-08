@@ -4,9 +4,6 @@ I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in t
 
 ![](https://komarev.com/ghpvc/?username=kMutagene) (since 2021/07/14)
 
-|[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kMutagene&show_icons=true&count_private=true&theme=synthwave&hide=stars)](https://github.com/anuraghazra/github-readme-stats)|[![Kevin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kMutagene&theme=synthwave&layout=compact&hide=jupyter%20notebook,html,plpgsql)](https://github.com/anuraghazra/github-readme-stats)|
-|---|---|
-
 ### :mag_right: Academic interests
 
 My main academic interests are:
