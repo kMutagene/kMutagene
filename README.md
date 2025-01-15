@@ -1,6 +1,6 @@
 :wave: Hi there! My name is **Kevin**, and i am a **data scientist** / **bioinformatician** / **.NET/F# developer**. 
 
-I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the Technical University of Kaiserslautern.
+I am a PhD student in the lab of [@muehlhaus](https://github.com/muehlhaus) in the department of [@CSBiology](https://github.com/CSBiology) at the RPTU Kaiserslautern.
 
 ![](https://komarev.com/ghpvc/?username=kMutagene) (since 2021/07/14)
 
